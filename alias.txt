@@ -1,0 +1,3 @@
+alias explorer=nautilus
+alias cls=clear
+

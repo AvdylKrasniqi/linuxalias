@@ -2,3 +2,5 @@ alias explorer=nautilus
 alias cls=clear
 alias cmd=gnome-terminal
 alias flushdns="/etc/init.d/networking restart"
+alias pas="php artisan serve"
+alias sail="./vendor/bin/sail"
